@@ -337,10 +337,12 @@ body._lock{
     line-height: 18px;
     letter-spacing: 1.96px;
     transition: all 0.3s ease-in;
+    /* border: 3px solid #3d567500; */
 }
 .main__button:hover{
     color: #3D5675;
     background-color: #fff;
+    /* border: 2.5px solid #3D5675; */
 }
 
 @media (max-width: 1200px){
@@ -371,7 +373,7 @@ body._lock{
         display: block;
         width: 100%;
         height: auto;
-        right: 80px;
+        right: 86px;
         top: 70px;
         margin-left: 200px;
     }
@@ -567,7 +569,7 @@ body._lock{
     color: #A1A1A1;
 }
 .shop-stock__btn {
-    padding: 13px 25px;
+    padding: 11px 23px;
     background-color: #fff;
     border-radius: 44px;
     color: #3D5675;
